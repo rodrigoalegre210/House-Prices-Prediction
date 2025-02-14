@@ -57,4 +57,4 @@ Durante el proyecto se generaron varios gráficos para visualizar las distribuci
 Con un R² de 0.90, el modelo nos da predicciones confiables para evaluación de precios de viviendas. En el proyecto vimos la importancia del preprocesamiento de datos para
 mejorar la calidad de los modelos predictivos.
 
-Número:
+Número: 9
